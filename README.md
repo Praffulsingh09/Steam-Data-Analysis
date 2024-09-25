@@ -9,7 +9,7 @@
 
 ## Project Structure
 ## **Introduction**
- - Overview of the dataset (97,000+ rows and 40 columns).
+ - Overview of the dataset (96,000+ rows and 40 columns).
  - Importing data and Python libraries like Pandas, Matplotlib, Seaborn, and Plotly.
 
 ## **Data Preparation**
