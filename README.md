@@ -44,5 +44,5 @@ This EDA project showcases the power of data in understanding player behavior an
 ![Screenshot 2024-09-25 074121](https://github.com/user-attachments/assets/f4d39247-ce98-4999-94a6-65bc0c6a0c64)
 
 License
-This project is licensed under the MIT license. Check here for details.
+This project is licensed under the MIT license. Check [here](https://github.com/Praffulsingh09/Steam-Data-Analysis/blob/main/LICENSE) for details.
 
